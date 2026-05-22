@@ -1,0 +1,20 @@
+.hello-claude {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: sans-serif;
+  background: #f0f4ff;
+}
+
+.hello-claude h1 {
+  font-size: 3rem;
+  color: #5a4fcf;
+  margin-bottom: 0.5rem;
+}
+
+.hello-claude p {
+  font-size: 1.2rem;
+  color: #444;
+}
